@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 -<!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about UI/UX, Graphic Design, Python. 
 - 📫 How to reach me: 
-- [Linkedin - @akshatcoder](https://www.linkedin.com/in/akshatcoder/),	 [Twitter -@akshatcoderhash](https://twitter.com/akshatcoderhash)
+- [Linkedin - ](https://www.linkedin.com/in/akshatcoder/),	 [Twitter -](https://twitter.com/akshatcoderhash)
 
 
 - 😄 Pronouns: He/Him/His

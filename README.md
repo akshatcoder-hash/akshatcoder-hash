@@ -13,4 +13,10 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: 
+- 
+
+
+[Twitter -@akshatcoderhash](https://twitter.com/akshatcoderhash)
+[Linkedin - @akshatcoder](https://www.linkedin.com/in/akshatcoder/)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=akshatcoder-hash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 

@@ -16,6 +16,7 @@ Here are some ideas to get you started:-->
 
 
 - 😄 Pronouns: He/Him/His
+- ![](https://komarev.com/ghpvc/?username=akshatcoder-hash)
  <!-- ⚡ Fun fact: I -->
  
 

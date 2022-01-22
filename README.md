@@ -7,6 +7,7 @@ Here are some ideas to get you started:-->
 - 🎓 Studying at KIET Group of Institutions.
 <!-- 🔭 I’m currently working on... -->
 - 🌱 I’m currently learning DSA in Java.
+
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about UI/UX, Graphic Design, Python. 

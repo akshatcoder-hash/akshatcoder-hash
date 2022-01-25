@@ -12,28 +12,40 @@ Here are some ideas to get you started:-->
 - ✨ I'm passionate about Linux, DevOps, Kubernetes, and learning new things!
 
 
+
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->
 <!-- 🤔 I’m looking for help with ... -->
-## ✨ I know about:
+## 🗣️ I can speak:
+![java](https://img.shields.io/badge/-java-black?logo=Java&logoColor=f95704&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-ec590c?logo=Java&logoColor=lightgrey&style=for-the-badge)
+![C%20Language](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
+
+## 🌐 My Web Friends:
+![html%205](https://img.shields.io/badge/-html%205-white?logo=HTML5&logoColor=ef310d&style=for-the-badge)
+![css%203](https://img.shields.io/badge/-css%203-white?logo=CSS3&logoColor=ef310d&style=for-the-badge)
+![javascript](https://img.shields.io/badge/-javascript-yellow?logo=JavaScript&logoColor=black&style=for-the-badge)
+![flask](https://img.shields.io/badge/-flask-blue?logo=Flask&logoColor=f4c006&style=for-the-badge)
+
+
+## ✨ I know about:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-darkcyan?logo=SQLite&logoColor=white&style=for-the-badge)
 ![Computer%20Networks](https://img.shields.io/badge/-Computer%20Networks-069bf1?logo=Fastlane&logoColor=crimson&style=for-the-badge)
 ![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-027dc3?logo=Azure%20DevOps&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
 
-## 🧰 I use:
-![Canva](https://img.shields.io/badge/-Canva-white?logo=Canva&logoColor=0199f2&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-ff2e52?logo=Figma&logoColor=efbc06&style=for-the-badge)
-![notion](https://img.shields.io/badge/-notion-black?logo=Notion&logoColor=white&style=for-the-badge)
+## 🧰 My Toolbox:
 ![intellij%20idea](https://img.shields.io/badge/-intellij%20idea-black?logo=IntelliJ%20IDEA&logoColor=cc14dc&style=for-the-badge)
 ![pycharm](https://img.shields.io/badge/-pycharm-25c600?logo=PyCharm&logoColor=fcc000&style=for-the-badge)
+![%20atom](https://img.shields.io/badge/-%20atom-f6a376?logo=Atom&logoColor=black&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-ff2e52?logo=Figma&logoColor=efbc06&style=for-the-badge)
+![notion](https://img.shields.io/badge/-notion-black?logo=Notion&logoColor=white&style=for-the-badge)
 ![Duckduckgo](https://img.shields.io/badge/-Duckduckgo-orange?logo=DuckDuckGo&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
 ![](https://img.shields.io/badge/--white?style=for-the-badge&logo=Brave)
 
-## 📫 Connect with me: 
+## 📫 Find me on: 
 <a href="https://www.linkedin.com/in/akshatcoder/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>

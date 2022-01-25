@@ -36,8 +36,8 @@ Here are some ideas to get you started:-->
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
 
 ## 🧰 My Toolbox:
-![intellij%20idea](https://img.shields.io/badge/-intellij%20idea-black?logo=IntelliJ%20IDEA&logoColor=cc14dc&style=for-the-badge)
-![pycharm](https://img.shields.io/badge/-pycharm-25c600?logo=PyCharm&logoColor=fcc000&style=for-the-badge)
+![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
+![pycharm%20professional](https://img.shields.io/badge/-pycharm%20professional-ffc900?logo=PyCharm&logoColor=348a13&style=for-the-badge)
 ![%20atom](https://img.shields.io/badge/-%20atom-f6a376?logo=Atom&logoColor=black&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-ff2e52?logo=Figma&logoColor=efbc06&style=for-the-badge)
 ![notion](https://img.shields.io/badge/-notion-black?logo=Notion&logoColor=white&style=for-the-badge)

@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akshat!](https://www.linkedin.com/in/akshatcoder) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akshat!](https://www.linkedin.com/in/akshatcoder) <img src="https://github.com/akshatcoder-hash/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 
 <!--
 **akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -11,6 +11,11 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning DSA in Java.
 - ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 
+## 😆 A Developer joke:
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=ayu-mirage)
 
 
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->
@@ -29,7 +34,7 @@ Here are some ideas to get you started:-->
 
 ## ✨ I have a grip on:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-darkcyan?logo=SQLite&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![jupyter](https://img.shields.io/badge/-jupyter-f65b09?logo=Jupyter&logoColor=black&style=for-the-badge)
 ![Computer%20Networks](https://img.shields.io/badge/-Computer%20Networks-069bf1?logo=Fastlane&logoColor=crimson&style=for-the-badge)
 ![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-027dc3?logo=Azure%20DevOps&logoColor=white&style=for-the-badge)
@@ -59,7 +64,10 @@ Here are some ideas to get you started:-->
 <a href = "https://g.dev/akshatcoder"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
 
-## 📈 Some of my GitHub stats:               ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square)
+## 📈 Some of my GitHub stats:       
+
+![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
+
 
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)

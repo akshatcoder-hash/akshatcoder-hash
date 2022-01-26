@@ -59,7 +59,7 @@ Here are some ideas to get you started:-->
 <a href = "https://g.dev/akshatcoder"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
 
-## 📈 Some of my GitHub stats:               ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square&color=yellow)
+## 📈 Some of my GitHub stats:               ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square)
 
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)

@@ -39,9 +39,11 @@ Here are some ideas to get you started:-->
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
 ![pycharm%20professional](https://img.shields.io/badge/-pycharm%20professional-ffc900?logo=PyCharm&logoColor=348a13&style=for-the-badge)
 ![%20atom](https://img.shields.io/badge/-%20atom-f6a376?logo=Atom&logoColor=black&style=for-the-badge)
+![Arch%20linux](https://img.shields.io/badge/-Arch%20linux-blue?style=for-the-badge&logo=Arch%20Linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-ff2e52?logo=Figma&logoColor=efbc06&style=for-the-badge)
 ![notion](https://img.shields.io/badge/-notion-black?logo=Notion&logoColor=white&style=for-the-badge)
 ![Duckduckgo](https://img.shields.io/badge/-Duckduckgo-orange?logo=DuckDuckGo&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/--f65804?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
 ![](https://img.shields.io/badge/--white?style=for-the-badge&logo=Brave)
 

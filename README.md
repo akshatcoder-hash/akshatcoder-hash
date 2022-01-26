@@ -20,14 +20,14 @@ Here are some ideas to get you started:-->
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![C%20Language](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
 
-## 🌐 My Web Friends:
+## 🌐 My friends for the Web:
 ![html%205](https://img.shields.io/badge/-html%205-white?logo=HTML5&logoColor=ef310d&style=for-the-badge)
 ![css%203](https://img.shields.io/badge/-css%203-white?logo=CSS3&logoColor=ef310d&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-yellow?logo=JavaScript&logoColor=black&style=for-the-badge)
 ![flask](https://img.shields.io/badge/-flask-blue?logo=Flask&logoColor=f4c006&style=for-the-badge)
 
 
-## ✨ I know about:
+## ✨ I have a grip in:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-darkcyan?logo=SQLite&logoColor=white&style=for-the-badge)
 ![Computer%20Networks](https://img.shields.io/badge/-Computer%20Networks-069bf1?logo=Fastlane&logoColor=crimson&style=for-the-badge)
@@ -58,7 +58,7 @@ Here are some ideas to get you started:-->
 <a href = "https://g.dev/akshatcoder"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
 
-## 📈 Some of my GitHub stats:  ![](https://komarev.com/ghpvc/?username=akshatcoder-hash)
+## 📈 Some of my GitHub stats:               ![](https://komarev.com/ghpvc/?username=akshatcoder-hash)
 
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)

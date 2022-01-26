@@ -29,7 +29,7 @@ Here are some ideas to get you started:-->
 ![html%205](https://img.shields.io/badge/-html%205-white?logo=HTML5&logoColor=ef310d&style=for-the-badge)
 ![css%203](https://img.shields.io/badge/-css%203-white?logo=CSS3&logoColor=ef310d&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-yellow?logo=JavaScript&logoColor=black&style=for-the-badge)
-![flask](https://img.shields.io/badge/-flask-blue?logo=Flask&logoColor=f4c006&style=for-the-badge)
+![flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=yellow)
 
 
 ## ✨ I have a grip on:

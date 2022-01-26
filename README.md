@@ -27,7 +27,7 @@ Here are some ideas to get you started:-->
 ![flask](https://img.shields.io/badge/-flask-blue?logo=Flask&logoColor=f4c006&style=for-the-badge)
 
 
-## ✨ I have a grip in:
+## ✨ I have a grip on:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-darkcyan?logo=SQLite&logoColor=white&style=for-the-badge)
 ![Computer%20Networks](https://img.shields.io/badge/-Computer%20Networks-069bf1?logo=Fastlane&logoColor=crimson&style=for-the-badge)
@@ -47,7 +47,7 @@ Here are some ideas to get you started:-->
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
 ![](https://img.shields.io/badge/--white?style=for-the-badge&logo=Brave)
 
-## 📫 Say hello: 
+## 📫 Say hello to me: 
 <a href="https://www.linkedin.com/in/akshatcoder/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>

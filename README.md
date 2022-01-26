@@ -30,6 +30,7 @@ Here are some ideas to get you started:-->
 ## ✨ I have a grip on:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-darkcyan?logo=SQLite&logoColor=white&style=for-the-badge)
+![jupyter](https://img.shields.io/badge/-jupyter-f65b09?logo=Jupyter&logoColor=black&style=for-the-badge)
 ![Computer%20Networks](https://img.shields.io/badge/-Computer%20Networks-069bf1?logo=Fastlane&logoColor=crimson&style=for-the-badge)
 ![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-027dc3?logo=Azure%20DevOps&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)

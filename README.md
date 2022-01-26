@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
 <!-- 🔭 I’m currently working on... -->
 - 🌱 I’m currently learning DSA in Java.
-- ✨ I'm passionate about Linux, DevOps, Kubernetes, and learning new things!
+- ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 
 
 

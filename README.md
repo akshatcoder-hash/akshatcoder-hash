@@ -54,14 +54,14 @@ Here are some ideas to get you started:-->
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
 ![](https://img.shields.io/badge/--white?style=for-the-badge&logo=Brave)
 
-## 📫 Say hello to me: 
+## 📫 Say hello on: 
 <a href="https://www.linkedin.com/in/akshatcoder/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>
  <a href="https://twitter.com/akshatcoderhash">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
 <a href="https://www.instagram.com/akshatsharma_3.14/">
-<img alt="instagram" src="https://img.shields.io/badge/-instagram-c514dc?logo=Instagram&logoColor=white&style=for-the-badge"></a>
+<img alt="instagram" src="https://camo.githubusercontent.com/f0800d21a45991e342e1ff4577180882cb6c348ac5c73167ad710ed207683cb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465"></a>
 <a href = "https://g.dev/akshatcoder"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
 

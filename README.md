@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Akshat!](https://www.linkedin.com/in/akshatcoder) <img src="https://github.com/akshatcoder-hash/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm [Akshat!](https://www.linkedin.com/in/akshatcoder) <img src="https://github.com/akshatcoder-hash/TheDudeThatCode/blob/master/Assets/Developer.gif" width="75px">
 
 <!--
 **akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -16,8 +16,6 @@ Here are some ideas to get you started:-->
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=ayu-mirage)
-
-
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->
 <!-- 🤔 I’m looking for help with ... -->
 ## 🗣️ I can speak:

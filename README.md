@@ -32,7 +32,7 @@ Here are some ideas to get you started:-->
 ![flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=yellow)
 
 
-## ✨ I have a grip on:
+## ✨ I know about:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![jupyter](https://img.shields.io/badge/-jupyter-f65b09?logo=Jupyter&logoColor=black&style=for-the-badge)

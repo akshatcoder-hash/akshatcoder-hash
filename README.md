@@ -11,6 +11,11 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning DSA in Java.
 - ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 
+## My Github Wrap:
+
+![image](https://user-images.githubusercontent.com/69577224/152329214-a510c49f-4e9e-426a-83d9-b97b3fd14949.png)
+
+
 ## 😆 A Developer joke:
 
 <!-- Markdown -->

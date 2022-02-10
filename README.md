@@ -51,7 +51,6 @@ Here are some ideas to get you started:-->
 ![Duckduckgo](https://img.shields.io/badge/-Duckduckgo-orange?logo=DuckDuckGo&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/--f65804?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
-![](https://img.shields.io/badge/--white?style=for-the-badge&logo=Brave)
 
 ## 📫 Say hello on: 
 <a href="https://www.linkedin.com/in/akshatcoder/">

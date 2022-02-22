@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/Him/His.
 
 - 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
-<!-- 🔭 I’m currently working on... -->
+- 🔭 I’m currently working on <a href = "github.com/ShastraOS">Shastra OS</a>- a Blockchain based desktop OS.
 - 🌱 I’m currently learning DevOps and trying my hand in Competitive Programming.
 - ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 

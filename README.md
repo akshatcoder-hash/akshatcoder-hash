@@ -67,14 +67,17 @@ Here are some ideas to get you started:-->
 ## 📈 Some of my GitHub stats:       
 
 
-
-
 ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/akshatcoder-hash?cardType=github&theme=ayu-mirage)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshatcoder-hash&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
+![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)
+
+
+<p align="left">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshatcoder-hash&show_icons=true&theme=ayu-mirage" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatcoder-hash&theme=ayu-mirage" />
+</p>

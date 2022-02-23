@@ -66,8 +66,13 @@ Here are some ideas to get you started:-->
 
 ## 📈 Some of my GitHub stats:       
 
+
+
+
 ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)

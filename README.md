@@ -23,6 +23,7 @@ Here are some ideas to get you started:-->
 ![java](https://img.shields.io/badge/-java-black?logo=Java&logoColor=f95704&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![C%20Language](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=Rust&logoColor=e9b302)
 
 ## 🌐 My friends for the Web:
 ![html%205](https://img.shields.io/badge/-html%205-white?logo=HTML5&logoColor=ef310d&style=for-the-badge)

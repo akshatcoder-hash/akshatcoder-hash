@@ -79,6 +79,6 @@ Here are some ideas to get you started:-->
 
 <p align="left">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshatcoder-hash&show_icons=true&theme=ayu-mirage" />
+  <img width="42%" src="https://awesome-github-stats.azurewebsites.net/user-stats/akshatcoder-hash?cardType=github&theme=ayu-mirage" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatcoder-hash&theme=ayu-mirage" />
 </p>

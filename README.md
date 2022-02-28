@@ -42,7 +42,25 @@ Here are some ideas to get you started:-->
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
 
-## 🧰 My Gear:
+## 📈 Some of my GitHub stats:       
+
+
+![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
+![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)
+
+
+<p align="left">
+	
+  <img width="42%" src="https://awesome-github-stats.azurewebsites.net/user-stats/akshatcoder-hash?cardType=github&theme=ayu-mirage" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatcoder-hash&theme=ayu-mirage" />
+</p>
+
+## 🧰 My Toolbox:
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
 ![pycharm%20professional](https://img.shields.io/badge/-pycharm%20professional-ffc900?logo=PyCharm&logoColor=348a13&style=for-the-badge)
 ![%20atom](https://img.shields.io/badge/-%20atom-f6a376?logo=Atom&logoColor=black&style=for-the-badge)
@@ -65,20 +83,3 @@ Here are some ideas to get you started:-->
 <a href = "https://g.dev/akshatcoder"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
 
-## 📈 Some of my GitHub stats:       
-
-
-![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
-![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
-![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)
-
-
-<p align="left">
-	
-  <img width="42%" src="https://awesome-github-stats.azurewebsites.net/user-stats/akshatcoder-hash?cardType=github&theme=ayu-mirage" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatcoder-hash&theme=ayu-mirage" />
-</p>

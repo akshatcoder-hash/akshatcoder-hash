@@ -49,7 +49,7 @@ Here are some ideas to get you started:-->
 ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akshatcoder-hash&column=7&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akshatcoder-hash&column=7&theme=onedark&no-frame=true"/>
 </p>
 
 

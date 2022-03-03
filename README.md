@@ -4,6 +4,7 @@
 **akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:-->
+
 - 😄 Pronouns: He/Him/His.
 
 - 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
@@ -46,6 +47,10 @@ Here are some ideas to get you started:-->
 
 
 ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akshatcoder-hash&column=7&theme=onedark"/>
+</p>
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">

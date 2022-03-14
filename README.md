@@ -25,6 +25,7 @@ Here are some ideas to get you started:-->
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![C%20Language](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=Rust&logoColor=e9b302)
+![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-white?logo=C%2B%2B&logoColor=blue&style=for-the-badge)
 
 ## 🌐 My friends for the Web:
 ![html%205](https://img.shields.io/badge/-html%205-white?logo=HTML5&logoColor=ef310d&style=for-the-badge)

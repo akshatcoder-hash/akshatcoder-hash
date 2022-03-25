@@ -1,4 +1,4 @@
-# Hey <img src="https://user-images.githubusercontent.com/69577224/156870390-55054de5-0028-461d-8ac7-23b444fa3ff2.gif" width="35px">, I'm [Akshat!](https://www.linkedin.com/in/akshatcoder) <img src="https://github.com/akshatcoder-hash/TheDudeThatCode/blob/master/Assets/Developer.gif" width="75px">
+# Hey <img src="https://user-images.githubusercontent.com/69577224/156870390-55054de5-0028-461d-8ac7-23b444fa3ff2.gif" width="35px">, I'm [Akshat!](https://bit.ly/3JGFlvJ) <img src="https://github.com/akshatcoder-hash/TheDudeThatCode/blob/master/Assets/Developer.gif" width="75px">
 
 <!--
 **akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 

@@ -48,24 +48,27 @@ Here are some ideas to get you started:-->
 ## 📈 Some of my GitHub stats:       
 
 
-![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square) [![Repos Badge](https://badges.pufler.dev/repos/akshatcoder-hash)](https://badges.pufler.dev)
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akshatcoder-hash&column=7&theme=onedark&no-frame=true"/>
-</p>
+![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square)
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+
+
+<div align="center">
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatcoder-hash&custom_title=Akshat's+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatcoder-hash&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+  
+</div> 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br>
+
 
 ![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
 ![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)
 
 
-<p align="left">
-	
-  <img width="42%" src="https://awesome-github-stats.azurewebsites.net/user-stats/akshatcoder-hash?cardType=github&theme=ayu-mirage" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatcoder-hash&theme=ayu-mirage" />
-</p>
+
 
 ## 🧰 My Toolbox:
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)

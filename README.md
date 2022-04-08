@@ -24,15 +24,13 @@ Here are some ideas to get you started:-->
 ![java](https://img.shields.io/badge/-java-black?logo=Java&logoColor=f95704&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![C%20Language](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=Rust&logoColor=e9b302)
 ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-white?logo=C%2B%2B&logoColor=blue&style=for-the-badge)
 
 ## 🌐 My friends for the Web:
 ![html%205](https://img.shields.io/badge/-html%205-white?logo=HTML5&logoColor=ef310d&style=for-the-badge)
 ![css%203](https://img.shields.io/badge/-css%203-white?logo=CSS3&logoColor=ef310d&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-yellow?logo=JavaScript&logoColor=black&style=for-the-badge)
-![flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=yellow)
-
+![React](https://img.shields.io/badge/-React-black?logo=React&style=for-the-badge)
 
 ## ✨ I know about:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)

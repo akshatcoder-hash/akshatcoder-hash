@@ -8,9 +8,8 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/Him/His.
 
 - 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
-- 🔭 I’m currently working on <a href = "https://gitlab.com/shastraos/shastraos">Shastra OS</a> - a Blockchain based desktop OS.
--  👯 I’m looking to collaborate on <a href = "https://gitlab.com/shastraos/shastraos">Shastra OS</a>.
-- 🌱 I’m currently learning Everything 😅.
+- 🔭 I’m currently building <a href = "https://github.com/Shastra-OS">Shastra OS</a> - a Blockchain based Open Source desktop OS.
+- 🌱 I’m currently learning BlockChain Development, DevOps and DSA.
 - ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 
 ## 😆 A Developer joke:

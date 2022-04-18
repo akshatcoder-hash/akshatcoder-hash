@@ -12,11 +12,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning BlockChain Development, DevOps and DSA.
 - ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 
-## 😆 A Developer joke:
-
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=ayu-mirage)
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->
 <!-- 🤔 I’m looking for help with ... -->
 ## 🗣️ I can speak:
@@ -24,19 +19,15 @@ Here are some ideas to get you started:-->
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![C%20Language](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
 ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-white?logo=C%2B%2B&logoColor=blue&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffc700?logo=JavaScript&logoColor=black&style=for-the-badge)
 
-## 🌐 My friends for the Web:
-![html%205](https://img.shields.io/badge/-html%205-white?logo=HTML5&logoColor=ef310d&style=for-the-badge)
-![css%203](https://img.shields.io/badge/-css%203-white?logo=CSS3&logoColor=ef310d&style=for-the-badge)
-![javascript](https://img.shields.io/badge/-javascript-yellow?logo=JavaScript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-black?logo=React&style=for-the-badge)
+
 
 ## ✨ I know about:
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=Kubernetes&logoColor=fafafa&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![jupyter](https://img.shields.io/badge/-jupyter-f65b09?logo=Jupyter&logoColor=black&style=for-the-badge)
 ![Computer%20Networks](https://img.shields.io/badge/-Computer%20Networks-069bf1?logo=Fastlane&logoColor=crimson&style=for-the-badge)
 ![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-027dc3?logo=Azure%20DevOps&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)

@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/Him/His.
 
 - 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
-- 🔭 I’m currently building <a href = "https://github.com/Shastra-OS">Shastra OS</a> - a Blockchain based Open Source desktop OS.
+- 🔨 Building  <a href="https://shastraos.vercel.app"><img src="https://i.ibb.co/TTZhNrK/mini-Gif-20220323214829.gif" width="80px" style="border-radius:50%" /></a> with <a href="https://github.com/vivekpal1/">Vivek Pal</a>.
 - 🌱 I’m currently learning BlockChain Development, DevOps and DSA.
 - ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 

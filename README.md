@@ -17,7 +17,8 @@ Here are some ideas to get you started:-->
 ## 🗣️ I can speak:
 ![java](https://img.shields.io/badge/-java-black?logo=Java&logoColor=f95704&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
-![C%20Language](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
+![C](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-white?logo=Go&style=for-the-badge)
 ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-white?logo=C%2B%2B&logoColor=blue&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffc700?logo=JavaScript&logoColor=black&style=for-the-badge)
 

@@ -1,16 +1,10 @@
-# Hey <img src="https://user-images.githubusercontent.com/69577224/156870390-55054de5-0028-461d-8ac7-23b444fa3ff2.gif" width="35px">, I'm [Akshat!](https://bit.ly/3JGFlvJ) <img src="https://github.com/akshatcoder-hash/TheDudeThatCode/blob/master/Assets/Developer.gif" width="75px">
+# Hey <img src="https://user-images.githubusercontent.com/69577224/156870390-55054de5-0028-461d-8ac7-23b444fa3ff2.gif" width="35px">, I'm [Akshat!](https://bit.ly/3JGFlvJ)
 
 <!--
 **akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:-->
 
-- 😄 Pronouns: He/Him/His.
-
-- 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
-- 🔨 Building  <a href="https://shastraos.vercel.app"><img src="https://i.ibb.co/TTZhNrK/mini-Gif-20220323214829.gif" width="80px" style="border-radius:50%" /></a> with <a href="https://github.com/vivekpal1/">Vivek Pal</a>.
-- 🌱 I’m currently learning BlockChain Development, DevOps and DSA.
-- ✨ I'm passionate about 🐧 Linux, ⚙️ DevOps, ☸️ Kubernetes, and learning new things!
 
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->
 <!-- 🤔 I’m looking for help with ... -->

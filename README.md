@@ -1,4 +1,4 @@
-# Hey <img src="https://user-images.githubusercontent.com/69577224/156870390-55054de5-0028-461d-8ac7-23b444fa3ff2.gif" width="35px">, I'm [Akshat!](https://bit.ly/3JGFlvJ)
+# Hey devs, I'm [Akshat!](https://bit.ly/3JGFlvJ)
 
 <!--
 **akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -23,7 +23,9 @@ Here are some ideas to get you started:-->
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=Kubernetes&logoColor=fafafa&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Computer%20Networks](https://img.shields.io/badge/-Computer%20Networks-069bf1?logo=Fastlane&logoColor=crimson&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/-Ansible-f30b0b?style=for-the-badge&logo=Ansible)
+![terraform](https://img.shields.io/badge/-terraform-blueviolet?style=for-the-badge&logo=Terraform)
+![kafka](https://img.shields.io/badge/-kafka-555555?style=for-the-badge&logo=Apache%20Kafka)
 ![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-027dc3?logo=Azure%20DevOps&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)

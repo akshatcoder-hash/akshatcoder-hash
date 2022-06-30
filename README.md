@@ -5,9 +5,13 @@
 
 Here are some ideas to get you started:-->
 
+- 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
+- 🔨 Building  <a href="https://shastraos.vercel.app">Shastra OS</a> with <a href="https://github.com/vivekpal1/">Vivek Pal</a>.
 
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->
 <!-- 🤔 I’m looking for help with ... -->
+
+
 ## 🗣️ I can speak:
 ![java](https://img.shields.io/badge/-java-black?logo=Java&logoColor=f95704&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)

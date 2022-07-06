@@ -71,7 +71,7 @@ Here are some ideas to get you started:-->
 ![](https://img.shields.io/badge/--f65804?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
 
-## 📫 Say hello on: 
+## 📫 Say hello: 
 <a href="https://www.linkedin.com/in/akshatcoder/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>

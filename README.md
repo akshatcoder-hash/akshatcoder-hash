@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🔨 Building  <a href="https://shastraos.co">Shastra OS</a> with <a href="https://github.com/vivekpal1/">Vivek Pal</a>.
 
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->
-<!-- 🤔 I’m looking for help with ... -->
+<!-- 🤔 I’m looking for help in ... -->
 
 
 ## 🗣️ I can speak:

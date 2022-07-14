@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🎓 I’m currently in first year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
+- 🎓 I’m currently in my freshman year pursuing my Bachelors in Computer Science & Engineering(Artificial Intelligence🤖).
 - 🔨 Building  <a href="https://shastraos.co">Shastra OS</a> with <a href="https://github.com/vivekpal1/">Vivek Pal</a>.
 
 <!-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/akshatcoder/).-->

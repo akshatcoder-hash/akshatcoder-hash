@@ -1,4 +1,4 @@
-# Hey devs, I'm [Akshat!](https://bit.ly/3JGFlvJ)
+# Hey devs, I'm [Akshat](https://bit.ly/3JGFlvJ)!
 
 <!--
 **akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 

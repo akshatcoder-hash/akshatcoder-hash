@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 <!-- 🤔 I’m looking for help in ... -->
 
 
-## 🗣️ I can speak:
+<!-- ## 🗣️ I can speak:
 ![java](https://img.shields.io/badge/-java-black?logo=Java&logoColor=f95704&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
@@ -32,7 +32,7 @@ Here are some ideas to get you started:-->
 ![kafka](https://img.shields.io/badge/-kafka-555555?style=for-the-badge&logo=Apache%20Kafka)
 ![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-027dc3?logo=Azure%20DevOps&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
-![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
+![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge) -->
 
 ## 📈 Some of my GitHub stats:       
 

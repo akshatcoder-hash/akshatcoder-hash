@@ -34,14 +34,27 @@ Here are some ideas to get you started:-->
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge) -->
 
+
+## 🚀 Shipped stuff:
+
+ShastraOS | Solway | Sol-Pe | Custom-ENS
+-------------- | ----------------- | -------------------- | ---------------------
+👉 [Download](https://shastraos.org/) | 👉 [Download](https://github.com/Solway-Shastra) | 👉 [Download](https://github.com/Sol-Pe) | 👉 [Download](https://github.com/akshatcoder-hash/FOSSCU-ENS)
+✅ [Live Preview](https://shastraos.org) | ✅ [Live Preview](https://solway.select/) | ✅ [Live Preview](https://github.com/Sol-Pe) | ✅ [Live Preview](https://github.com/akshatcoder-hash/FOSSCU-ENS)
+![ShastraOS](https://user-images.githubusercontent.com/69577224/223154562-a233df11-88ca-4320-9d7b-4787b04e1da4.png) | ![Solway](https://user-images.githubusercontent.com/69577224/223154270-2f06220e-f15e-4f3b-b65f-6984ea3037eb.png) | ![Sol-Pe](https://user-images.githubusercontent.com/69577224/223155678-0e92cc62-a4c0-4f86-aba4-c51e55329664.png)| ![Custom ENS](https://user-images.githubusercontent.com/69577224/223156198-c30acef3-a4ed-4ecf-b4ab-891398dd06c0.png)
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
+
+
 ## 📈 Some of my GitHub stats:       
 
 
 ![](https://komarev.com/ghpvc/?username=akshatcoder-hash&style=flat-square)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
 
 
 <div align="center">
@@ -60,7 +73,7 @@ Here are some ideas to get you started:-->
 
 
 
-## 🧰 My Toolbox:
+<!-- ## 🧰 My Toolbox:
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
 ![pycharm%20professional](https://img.shields.io/badge/-pycharm%20professional-ffc900?logo=PyCharm&logoColor=348a13&style=for-the-badge)
 ![%20atom](https://img.shields.io/badge/-%20atom-f6a376?logo=Atom&logoColor=black&style=for-the-badge)
@@ -71,15 +84,13 @@ Here are some ideas to get you started:-->
 ![Duckduckgo](https://img.shields.io/badge/-Duckduckgo-orange?logo=DuckDuckGo&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/--f65804?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
-
+ -->
 ## 📫 Say hello: 
 <a href="https://www.linkedin.com/in/akshatcoder/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>
- <a href="https://twitter.com/akshatcoderhash">
+ <a href="https://twitter.com/akshatwts">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
-<a href="https://www.instagram.com/akshatsharma_3.14/">
-<img alt="instagram" src="https://camo.githubusercontent.com/f0800d21a45991e342e1ff4577180882cb6c348ac5c73167ad710ed207683cb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465"></a>
 <a href = "https://g.dev/akshatcoder"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
 

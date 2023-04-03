@@ -35,16 +35,16 @@ Here are some ideas to get you started:-->
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge) -->
 
 
-<!-- ## 🚀 Shipped stuff:
+ ## 🚀 Shipped stuff:
 
 ShastraOS | Solway | Sol-Pe | Custom-ENS
 -------------- | ----------------- | -------------------- | ---------------------
 👉 [Download](https://shastraos.org/) | 👉 [Download](https://github.com/Solway-Shastra) | 👉 [Download](https://github.com/Sol-Pe) | 👉 [Download](https://github.com/akshatcoder-hash/FOSSCU-ENS)
 ✅ [Live Preview](https://shastraos.org) | ✅ [Live Preview](https://solway.select/) | ✅ [Live Preview](https://github.com/Sol-Pe) | ✅ [Live Preview](https://github.com/akshatcoder-hash/FOSSCU-ENS)
 ![ShastraOS](https://user-images.githubusercontent.com/69577224/223154562-a233df11-88ca-4320-9d7b-4787b04e1da4.png) | ![Solway](https://user-images.githubusercontent.com/69577224/226276636-fb40f19d-f5a3-40bb-a2ff-5a70f580b15f.jpg) | ![Sol-Pe](https://user-images.githubusercontent.com/69577224/226273493-6b7ea83f-d502-4ee7-8cb1-f5465d8da87f.jpg)| ![Custom ENS](https://user-images.githubusercontent.com/69577224/223156198-c30acef3-a4ed-4ecf-b4ab-891398dd06c0.png)
- -->
-<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
- -->
+ 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+ 
 
 
 ## 📈 Some of my GitHub stats:       

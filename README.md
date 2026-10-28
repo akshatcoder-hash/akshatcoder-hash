@@ -12,12 +12,6 @@ I build AI agent systems, code intelligence, and computer-use tools.
 
 **Barestate** — my work toward self-improving machines, including computer-use agents on Apple Silicon. Atom explores compact GUI grounding with a fine-tuned, quantized TinyClick/Florence-2 derivative, alongside structured accessibility targets. This is experimental work; grounding benchmarks and end-to-end task completion are different measures.
 
-## Open-source contribution
-
-**[Synara: agent-thinking UI](https://github.com/akshatcoder-hash/synara/pull/1)** — a draft contribution in my fork of [Synara](https://github.com/Emanuele-web04/synara). The change makes provider-exposed thinking and summaries visible and expandable across ten agent integrations, with streaming updates, interruption recovery, and separate child-agent identities.
-
-The PR records 301 server regression tests, 191 transcript tests, and a Chromium UI test passing. Live authenticated provider sessions remain unverified; the contribution has not been merged upstream.
-
 ## Earlier work
 
 I founded SurfCash, a stablecoin payments product spanning multiple markets, and previously worked in developer relations at SOON. That experience informs how I build: start with a concrete customer problem, implement the workflow, and make the result inspectable.

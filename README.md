@@ -1,19 +1,27 @@
-# Akshat Sharma
+![an illustrated computer pulling a window into its screen](assets/barestate-loop.gif)
 
-I build AI agent systems, code intelligence, and computer-use tools.
+# hey, i'm akshat :)
 
-[Portfolio](https://akshats.xyz) · [Ranger](https://ranger.akshats.xyz) · [LinkedIn](https://www.linkedin.com/in/akshatcoder/) · [X](https://twitter.com/akshatwts)
+you get better at your job every week.
 
-## What I'm working on
+your computer? pretty much the same as it was last year.
 
-**[Ranger](https://ranger.akshats.xyz)** — an AI forward-deployed engineer prototype connecting customer conversations to scoped, approved code changes. It combines voice, repository context, plan approval, execution in Linux VMs, and verification. I built its TypeScript/Fastify backend, durable worker, SQLite event history, and Trace integration. Source is private.
+i'm building [barestate](https://barestate.xyz) with my friend vivek to change that. we're working on machines that get better with use, starting with computers.
 
-**Trace** — local code intelligence for TypeScript and JavaScript repositories, exposed to agents through MCP. It combines lexical, vector, symbol, and structural retrieval, returns exact source ranges and explicit evidence gaps, and checks whether citations are still current. Ranger uses it for repository context. Source is private; see my [portfolio](https://akshats.xyz) for project details.
+we've known each other since we were kids. back then we took apart antivirus software and reverse engineered games. later, we built an operating system together.
 
-**Barestate** — my work toward self-improving machines, including computer-use agents on Apple Silicon. Atom explores compact GUI grounding with a fine-tuned, quantized TinyClick/Florence-2 derivative, alongside structured accessibility targets. This is experimental work; grounding benchmarks and end-to-end task completion are different measures.
+now we're back at it, trying to make computers a little more capable :)
 
-## Earlier work
+**atom** is our small model for computer use. it runs locally on apple silicon and finds things on a screen. its runtime package is 169 mb, and it found 966 out of 1,272 targets on screenspot-v2 in one pass. [the predictions and evaluation are public.](https://github.com/akshatcoder-hash/atom-screenspot-v2)
 
-I founded SurfCash, a stablecoin payments product spanning multiple markets, and previously worked in developer relations at SOON. That experience informs how I build: start with a concrete customer problem, implement the workflow, and make the result inspectable.
+here's orb working across a real app:
 
-I'm interested in applied AI and forward-deployed engineering work across agents, developer tools, and computer use.
+![orb controlling an audio app](assets/orb-demo.gif)
+
+**orbit** is our research into models that can learn from how you use your computer. the idea is that your machine should get better at *your* work over time.
+
+i've also been building [ranger](https://ranger.akshats.xyz), an ai engineer that goes from a customer conversation to a scoped code change, and trace, the code intelligence system it uses to investigate repositories.
+
+before all this, i founded surfcash.
+
+[portfolio](https://akshats.xyz) · [barestate](https://barestate.xyz) · [ranger](https://ranger.akshats.xyz) · [linkedin](https://www.linkedin.com/in/akshatcoder/) · [x](https://twitter.com/akshatwts)
